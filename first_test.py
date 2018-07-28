@@ -8,3 +8,4 @@ import matplotlib.pyplot as pl
 pl.hist(np.arange(0,100))
 pl.hist(np.random.randn(10000))
 print('ssss')
+print('ttt')
